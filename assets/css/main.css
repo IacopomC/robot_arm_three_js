@@ -23,6 +23,7 @@ ul li {
   padding: 6px 0;
 }
 ul li a {
+  position: relative;
   display: block;
   padding: 4px 0;
   font-family: Lato, sans-serif;
