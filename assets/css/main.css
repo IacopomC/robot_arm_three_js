@@ -21,7 +21,6 @@ h2 {
 }
 
 ul {
-  display: flex;
   flex-direction: column;
   align-items: start;
   list-style-type: none;
