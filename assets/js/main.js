@@ -1,6 +1,6 @@
-import * as THREE from '../../../../../node_modules/three/build/three.module.js';
-import { OrbitControls } from '../../../../../node_modules/three/examples/jsm/controls/OrbitControls.js';
-import {VRButton} from '../../../../../node_modules/three/examples/jsm/webxr/VRButton.js';
+import * as THREE from "https://unpkg.com/three@0.126.1/build/three.module.js";
+import { OrbitControls } from "https://unpkg.com/three@0.126.1/examples/jsm/controls/OrbitControls.js";
+import { VRButton } from 'https://unpkg.com/three@0.126.1/examples/jsm/webxr/VRButton.js';
 import createRobot from './robot.js';
 import ControllerPickHelper from './controller_pick_helper.js';
 import generateBalls from './ball.js';
