@@ -1,4 +1,4 @@
-# **Robot Arm Ball Picking** 
+# **Robot Arm in ThreeJS** 
 
 This repository contains the implementation of a robot arm with 3 degrees of freedom (DoF) built using only primitives from the Javascript 3D Library [Three JS](https://threejs.org/).
 
