@@ -4,7 +4,7 @@ This repository contains the implementation of a robot arm with 3 degrees of fre
 
 Ball picking
 ---
-Animate the robot arm by selecting one of the 20 balls presented on the floor to place in a ring.
+Select one of the 20 balls on the floor, and watch the robot arm pick them up and place them in a ring.
 
 VR
 --- 
