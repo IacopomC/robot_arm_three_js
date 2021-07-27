@@ -8,4 +8,4 @@ Select one of the 20 balls on the floor, and watch the robot arm pick them up an
 
 VR
 --- 
-You can enjoy this experience in VR by clicking on the main button
+You can enjoy this experience in VR. You can make your choice in the main page.
